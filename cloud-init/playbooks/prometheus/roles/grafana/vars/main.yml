@@ -1,0 +1,4 @@
+---
+grafana_dir_datasources: "/etc/grafana/provisioning/datasources"
+grafana_admin_user: "admin"
+grafana_admin_password: "admin"
